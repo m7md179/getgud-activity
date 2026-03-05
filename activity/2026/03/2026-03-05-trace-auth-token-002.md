@@ -2,9 +2,9 @@
 
 - **Mode:** Treasure Hunt
 - **Difficulty:** easy
-- **Score:** 100 / 1000
-- **Files opened:** 4
+- **Score:** 150 / 1000
+- **Files opened:** 1
 - **Run attempts:** 0
 - **Hints used:** 0
-- **Time seconds:** 13
-- **Solved at:** 2026-03-05T06:23:16.920Z
+- **Time seconds:** 6
+- **Solved at:** 2026-03-05T06:30:03.084Z
